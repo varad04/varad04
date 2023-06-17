@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varad04" alt="varad04" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Power BI**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on **Data Science**
-
-- 🤝 I’m looking for help with **Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varad04](https://github.com/varad04)
 
